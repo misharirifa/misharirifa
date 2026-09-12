@@ -1,5 +1,7 @@
 <div align="center">
 
+<img height="100" width="100" src="https://www.jfn.ac.lk/wp-content/uploads/2025/10/UOJ-Logo-Color-scaled.png" alt="University of Jaffna Logo" />
+
 # Hi, I'm Mishari 👋
 
 ### Engineering Technology Student
@@ -7,7 +9,15 @@
 
 Exploring electronics, programming, and the connections between hardware and software.
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misharistark@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ruzaid--ahamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishari-rifa)
+[![GitHub](https://img.shields.io/badge/GitHub-ruzait-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/misharirifa)
+[![Email](https://img.shields.io/badge/Email-ruzaitahamedzainudeen@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misharistark@gmail.com)
+
+<br/>
+
+🎓 **BET (Hons) in Electro Technology** — 2nd Year  
+🏛️ *Faculty of Technology, University of Jaffna*  
+💼 *Freelancer · Tech Enthusiast · Developer*
 
 </div>
 
